@@ -155,5 +155,17 @@ For running the attack end-to-end, please run:
 bash run.sh
 ```
 
+## Citation
+
+If you use this code, please cite our paper:
+
+```tex
+@article{shafran2024machine,
+  title={Machine against the rag: Jamming retrieval-augmented generation with blocker documents},
+  author={Shafran, Avital and Schuster, Roei and Shmatikov, Vitaly},
+  journal={arXiv preprint arXiv:2406.05870},
+  year={2024}
+}
+```
 
 
